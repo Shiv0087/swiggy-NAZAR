@@ -305,6 +305,6 @@ v3  ·  Scale ──────────────────────
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c23b00,50:FC8019,100:ffb347&height=120&section=footer&fontSize=20&fontColor=ffffff&text=Built%20for%20S%20uilders%20%20·%20Made%20in%20India%20🇮🇳&fontAlignY=65&descColor=ffe0cc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c23b00,50:FC8019,100:ffb347&height=120&section=footer&fontSize=20&fontColor=ffffff&text=Built%20for%20%20uilders%20%20·%20Made%20in%20I%20🇮🇳&fontAlignY=65&descColor=ffe0cc" />
 
 </div>
