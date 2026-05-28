@@ -217,12 +217,6 @@ Hosting     →  Railway / Render (backend) + Vercel (frontend)
 
 ---
 
-## 👨‍💻 Built By
-
-**[Your Name]**  
-📍 Rajkot, Gujarat, India  
-📧 [your email]  
-🐙 [github.com/yourhandle](https://github.com)
 
 ---
 
